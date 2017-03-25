@@ -1,1 +1,10 @@
-"ingredients" 
+"ingredients"
+curry spices
+onion
+veggies
+coconut milk
+
+Directions
+saute onions w spices
+add veggies
+stir in coconut milk
