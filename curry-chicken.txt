@@ -1,1 +1,4 @@
-"ingredients" 
+"ingredients"
+spices
+onion
+chicken
