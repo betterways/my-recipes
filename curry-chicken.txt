@@ -2,7 +2,7 @@
 
 Chicken
 spices
-tomatoes
+veggies
 salt
 water
 2 tsp salt
@@ -21,3 +21,4 @@ Make sauce
 
 Sauce
 Yogurt- mix yogurt with cayanne & stir into other ingredents
+Coconut - stir in coconut milk
